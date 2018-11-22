@@ -136,6 +136,29 @@
 }
 
 
+.intro {
+  background-color: rgb(255, 250, 244);
+  padding-top: 45px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.intro p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.intro .millieu {
+  text-align: center;
+}
+
+.intro .droite {
+  text-align: right;
+}
+
+
+
+
+
+
 
 
 
