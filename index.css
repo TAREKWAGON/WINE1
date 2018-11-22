@@ -154,6 +154,141 @@
   text-align: right;
 }
 
+<body>
+
+  <div class="navbarall">
+    <div class="nav">
+      <div class="container">
+        <div class="row">
+          <div class="col-2">
+            <p>Histoire</p>
+          </div>
+          <div class="col-2">
+            <p>Notre Terroir</p>
+          </div>
+          <div class="col-2">
+            <p class="span1">Les Vins</p>
+          </div>
+          <div class="col-2">
+            <p class="span2">Actualitées</p>
+          </div>
+          <div class="col-2">
+            <p>Commandes</p>
+          </div>
+          <div class="col-2">
+            <p class="sign">Se connecter</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="logo">
+      <img src="https://res.cloudinary.com/ebc-industries/image/upload/v1542892429/logowine1.png">
+    </div>
+
+    <div class="titre">
+      <h3>Domaine D'Alter</h3>
+    </div>
+
+    <div class="lines">
+      <div class="container">
+        <div class="row">
+          <div class="col-4">
+            <p>______________________________________________</p>
+          </div>
+          <div class="col-4">
+
+          </div>
+          <div class="col-4">
+            <p>______________________________________________</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="logo2">
+      <img src="https://res.cloudinary.com/ebc-industries/image/upload/v1542894907/Rouge...png">
+    </div>
+
+    <div class="shopping">
+      <div class="container">
+        <div class="row">
+          <div class="col-9">
+
+          </div>
+          <div class="col-2">
+            <p>Fr | Eng</p>
+          </div>
+          <div class="col-1">
+            <img src="https://us.123rf.com/450wm/mr_vector/mr_vector0906/mr_vector090600399/4971661-shopping-cart-icon-vector-.jpg?ver=6">
+            <img src="http://pluspng.com/img-png/down-arrow-png-down-arrow-sketch-free-icon-512.png">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="banniere1">
+    <div class="panno">
+      <div class="point">
+        <img src="https://res.cloudinary.com/ebc-industries/image/upload/v1542897883/point.png">
+      </div>
+      <div class="text1">
+        <p>La sélection indépendante <br> du domaine d'Alter</p>
+      </div>
+      <div class="line">
+        <p>_______________________________________________________________</p>
+      </div>
+      <div class="text2">
+        <p>Notre vin est issue d'une agriculture de tradition. Mis en bouteille au château pour garder tout son arome. Achetez une caisse dès aujourd'hui pour 58,90€</p>
+      </div>
+      <div class="line">
+        <p>________________________________________________________________</p>
+      </div>
+      <div class="point2">
+        <img src="https://res.cloudinary.com/ebc-industries/image/upload/v1542897883/point.png">
+      </div>
+      <div class="bouton">
+        <p>Commander</p>
+      </div>
+      <div class="lien">
+        <p>En savoir plus</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="intro">
+    <div class="container">
+      <div class="row">
+        <div class="col-4 gauche">
+          <p class="line">________________________________________________</p>
+          <p>- Un prix raisonnable -</p> <br> <br>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p> <br>
+          <img src="https://static.thenounproject.com/png/25946-200.png"> <br>
+          <p class="line">________________________________________________</p>
+        </div>
+        <div class="col-4 millieu">
+          <p class="line">_______________________________________________</p>
+          <p>- Garantie  -</p> <br> <br>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p> <br>
+          <img src="https://static.thenounproject.com/png/65695-200.png"> <br>
+          <p class="line">________________________________________________</p>
+        </div>
+        <div class="col-4 droite">
+          <p class="line">_______________________________________________</p>
+          <p>- Testé par des sommeliers -</p> <br> <br>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p> <br>
+          <img src="https://static.thenounproject.com/png/86536-200.png"> <br>
+          <p class="line">________________________________________________</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</body>
 
 
 
