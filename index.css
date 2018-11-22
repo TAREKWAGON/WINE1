@@ -1,6 +1,7 @@
 .navbarall {
   background-color: rgb(255, 250, 244);
   padding-bottom: 30px;
+  position: relative;
 }
 
 .nav {
@@ -63,6 +64,14 @@
 
 .shopping p {
   font-family: 'Montserrat', sans-serif;
+}
+
+.logo3 img {
+  position: absolute;
+  width: 3%;
+  bottom: -20px;
+  right: 48.5%;
+  left: 48.5%;
 }
 
 
@@ -243,6 +252,31 @@
 
 
 
+.intro2 {
+  background-color: rgb(255, 250, 244);
+  font-family: 'Montserrat', sans-serif;
+  height: 40vh;
+}
+
+.intro2 .pad  {
+  padding-top: 40px;
+}
+
+.intro2 h2 {
+  font-size: 30px;
+  padding-bottom: 20px;
+}
+
+.intro2 h3 {
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+
+.intro2 img {
+  height: 50vh;
+  padding-left: 150px;
+  padding-top: 20px;
+}
 
 
 
