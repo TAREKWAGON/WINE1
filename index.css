@@ -1,9 +1,30 @@
+.navbarall {
+  background-color: rgb(255, 250, 244);
+  padding-bottom: 30px;
+}
+
 .nav {
   padding-top: 40px;
 }
 
 .nav p {
   text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.nav .span1 {
+  text-align: left;
+  padding-left: 10px;
+}
+
+.nav .span2 {
+  text-align: right;
+}
+
+.sign {
+  border: 2px solid black;
+  padding: 10px 1px;
+  margin-top: -12px;
 }
 
 .logo img {
@@ -11,5 +32,130 @@
     margin-left: auto;
     margin-right: auto;
     width: 15%;
-    margin-top: -15px;
+    margin-top: -55px;
 }
+
+.titre h3 {
+  text-align: center;
+  font-family: 'Cinzel', serif;
+}
+
+.lines p {
+  margin-top: -34px;
+  text-align: center;
+}
+
+.logo2 img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+.shopping {
+  margin-top: -127px;
+}
+
+.shopping img {
+  width: 27px;
+  display: left;
+}
+
+.shopping p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+/* END OF NAVBAR */
+
+
+.banniere1 {
+  background-image: url('https://images.unsplash.com/photo-1458576627435-430ad58ead3b?ixlib=rb-0.3.5&s=e60e8178d137c3b181c56129ec5cdbc2&auto=format&fit=crop&w=1050&q=80');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  text-align: center;
+  padding-right: 60%;
+  padding-top: 100px;
+}
+
+.panno {
+  border: 2px solid rgb(161, 162, 163);
+  margin-left: 100px;
+  color: white;
+  background-color: rgba(7, 32, 40, 0.3)
+}
+
+.point img {
+  width: 10px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.text1 {
+  font-size: 26px;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+}
+
+.line {
+  color: rgb(161, 162, 163);
+  font-size: 12px;
+}
+
+.text2 {
+  width: 80%;
+  margin-left: 50px;
+}
+
+.point2 img {
+  width: 10px;
+  padding-top: 15px;
+  padding-bottom: 20px;
+}
+
+.bouton p {
+  background-color: rgba(88, 83, 89, 0.6);
+  margin-left: 30%;
+  margin-right: 30%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: 2px solid rgb(193, 192, 190);
+}
+
+.bouton {
+  padding-bottom: 10px;
+}
+
+.lien p {
+  border-bottom: 2px solid rgb(193, 192, 190);
+  margin-left: 37%;
+  margin-right: 37%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
