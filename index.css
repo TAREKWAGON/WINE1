@@ -74,6 +74,11 @@
   left: 48.5%;
 }
 
+.arrow {
+  width: 15px !important;
+  margin-top: 10px;
+}
+
 
 
 /* END OF NAVBAR */
@@ -144,11 +149,28 @@
   margin-right: 37%;
 }
 
+.dot1 img {
+  width: 3%;
+  position: absolute;
+  top: -15px;
+  left: 48.5%;
+  right: 48.5%;
+}
+
+.dot2 img {
+  width: 3%;
+  position: absolute;
+  bottom: -15px;
+  left: 48.5%;
+  right: 48.5%;
+}
+
 
 .intro {
   background-color: rgb(255, 250, 244);
   padding-top: 45px;
   font-family: 'Montserrat', sans-serif;
+  position: relative;
 }
 
 .intro p {
@@ -278,9 +300,53 @@
   padding-top: 20px;
 }
 
-.intro {
-  color: white;
+
+.banniere3 {
+  background-image: url('https://images.unsplash.com/photo-1527247319798-0299d9a181e8?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=eac738acfec3ab50da4c0de71eb41dc1&auto=format&fit=crop&w=1049&q=80');
   background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 80vh;
+  text-align: center;
+  padding-left: 60%;
+  padding-top: 70px;
+}
+
+.panno3 {
+  margin-right: 100px;
+  color: white;
+  border: 2px solid gray;
+  background-color: rgba(1, 1, 1, 0.3);
+  margin-top: 40px;
+}
+
+.point111 img {
+  width: 10px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.text111 {
+  font-size: 26px;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  padding-top: 20px;
+}
+
+.line {
+  color: rgb(161, 162, 163);
+  font-size: 12px;
+}
+
+.text222 {
+  width: 80%;
+  margin-left: 50px;
+}
+
+.point222 img {
+  width: 10px;
+  padding-top: 15px;
+  padding-bottom: 20px;
 }
 
 
@@ -288,11 +354,51 @@
 
 
 
+.intro3 {
+  background-image: url('https://res.cloudinary.com/ebc-industries/image/upload/v1542977181/backpink.png');
+  background-size: cover;
+  height: 120vh;
+  margin-top: -30px;
+  font-family: 'Montserrat', sans-serif;
+  position: relative;
+}
 
+.introg {
+  position: absolute;
+  top: 120px;
+  left: -30px;
+}
 
+.introg p {
+  padding-top: 30px;
+}
 
+.introd {
+  position: absolute;
+  top: 120px;
+  left: 90px;
+}
 
+.introd p {
+  padding-top: 30px;
+}
 
+.button3 {
+  margin-left: 47.2%;
+  margin-right: 51.4%;
+  margin-top: 490px;
+  padding-top: 10px;
+  background-color: rgb(236, 236, 236);
+  padding-left: 15px;
+  padding-right: 15px;
+  border: 2px solid black;
+}
+
+footer {
+  background-image: url('https://res.cloudinary.com/ebc-industries/image/upload/v1542978165/footer.png');
+  height: 38vh;
+  background-size: cover;
+}
 
 
 
